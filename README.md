@@ -10,7 +10,7 @@ The chapters are:
     - `rayshader::`
     - `skimr::`
     - `table1::`
-    - `gtsummary::`
+    - `gtsummary::` -- Tarana
 2. One-Sample Tests  
     - $Z$-test
     - Paired $t$-test
@@ -41,4 +41,4 @@ The chapters are:
     - Generalized Linear Models: Binary
     - Generalized Linear Models: Ordered
     - Generalized Linear Models: Count
-6. Power Calculations (in progress)
+6. Power Calculations (in progress) -- Natalie Goulett

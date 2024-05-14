@@ -28,7 +28,7 @@ The chapters are:
     - $\chi^2$ Test for Independence
 4. Linear Regression and ANOVA  
     - One-Way ANOVA
-    - Two-way ANOVA
+    - Two-way ANOVA -- Natalie Goulett
     - Welch's ANOVA
     - Kruskal-Wallace Test
     - Durbin's / Friedman’s Test
@@ -38,7 +38,7 @@ The chapters are:
     - Multiple Regression(linear)
     - Polynomial regression
 5. Generalized Linear Models  
-    - Generalized Linear Models: Binary
+    - Generalized Linear Models: Binary -- Natalie Goulett
     - Generalized Linear Models: Ordered
     - Generalized Linear Models: Count
-6. Power Calculations (in progress) -- Natalie Goulett
+6. Power Calculations (in progress)
